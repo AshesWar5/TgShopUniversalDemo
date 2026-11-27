@@ -3,7 +3,7 @@ const CONFIG = {
   // Нейтральный демо-бот: кнопки «Открыть демо» открывают Mini App в Telegram
   // и передают туда название магазина из ?for= (см. shop-name.js).
   // Если оставить пустым, кнопки откроют app.html на сайте.
-  bot: 'https://t.me/tg_shop_demo_bot',
+  bot: 'https://t.me/tg_shop_demo_1_bot',
   // Ваш Telegram для связи — появится кнопка «Обсудить проект»
   contact: 'https://t.me/Artur105k'
 };
